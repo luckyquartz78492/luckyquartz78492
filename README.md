@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm luckyquartz
 
-<!--
-**luckyquartz78492/luckyquartz78492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a regular developer who likes building small things and figuring stuff out along the way.
 
-Here are some ideas to get you started:
+### About me
+- Currently exploring backend and scripting
+- Learning by doing (mostly breaking things then fixing them)
+- Still figuring out what I want to focus on long-term
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+- Python
+- JavaScript / Node
+- Git & Linux
+- A bit of HTML/CSS when needed
+
+### Projects
+Nothing worth showing yet. Will update this section when something feels ready.
+
+---
+
+Thanks for stopping by.
